@@ -1,2 +1,2 @@
 # expression-calculator
-This project serves to develop a expression calculator based on Qt
+Expression calculator based on Qt
